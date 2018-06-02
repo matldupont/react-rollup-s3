@@ -1,0 +1,24 @@
+{
+  "name": "react-rollup-s3",
+  "version": "1.0.0",
+  "description": "Tooling for React using Rollup and deploying to S3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matldupont/react-rollup-s3.git"
+  },
+  "keywords": [
+    "react",
+    "rollup",
+    "s3"
+  ],
+  "author": "Mat Dupont",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matldupont/react-rollup-s3/issues"
+  },
+  "homepage": "https://github.com/matldupont/react-rollup-s3#readme"
+}
